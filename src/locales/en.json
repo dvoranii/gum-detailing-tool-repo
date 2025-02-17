@@ -1,0 +1,60 @@
+{
+    "home": {
+      "title": "GUM Professional e-Detailing Tool",
+      "navTitle": "Home",
+      "modules": [
+        {
+            "id": "oral-systemic",
+            "title": "Oral-Systemic Solutions",
+            "route": "/oral-systemic"
+          },
+        {
+            "id": "partners",
+            "title": "Partners in Care",
+            "route": "/partners"
+          },
+        {
+          "id": "interproximal",
+          "title": "Interproximal Solutions",
+          "route": "/interproximal"
+        },
+        {
+          "id": "toothbrush",
+          "title": "Toothbrush Solutions",
+          "route": "/toothbrush"
+        },
+        {
+          "id": "operatory",
+          "title": "Operatory Solutions",
+          "route": "/operatory"
+        },
+        {
+          "id": "accessories",
+          "title": "Accessories",
+          "route": "/accessories"
+        }
+      ]
+    },
+    "interproximal": {
+        "title": "Engineered For Specific Patient Needs",
+        "class1": "Class I Solutions",
+        "class2": "Class II Solutions",
+        "class3": "Class III Solutions",
+        "counselling": "Patient Counselling",
+        "portfolioLinks": { 
+            "portfolio": "BTC Full Portfolio"
+       }
+      },
+      "toothbrush": {
+        "title": "Engineered For Specific Patient Needs",
+        "pocketDepth": "Patients with greater pocket depth",
+        "sensitivity": "Patients with greater sensitivity",
+        "research": "Patients needing greater research",
+        "portfolioLinks": { 
+            "adultPortfolio": "Full Adult Brush Portfolio",
+            "childPortfolio": "Full Child Brush Portfolio",
+            "specialtyPortfolio": "Specialty Brush Portfolio"
+       }
+       
+      }
+  }

@@ -1,0 +1,38 @@
+
+.interproximal-container {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    grid-template-rows: 1fr auto;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+
+  .content-area {
+    grid-column: 2;
+    grid-row: 1;
+    overflow: hidden;
+  }
+  
+  .module-title {
+    font-size: 2.4rem;
+    margin-bottom: 2rem;
+  }
+
+
+  .scroll-container {
+    overflow-y: scroll;
+    height: 100vh;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+  }
+
+  .content-section {
+    min-height: 100vh;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    box-sizing: border-box;
+    padding: 28px;
+    border-bottom: 1px solid grey;
+  }
+  

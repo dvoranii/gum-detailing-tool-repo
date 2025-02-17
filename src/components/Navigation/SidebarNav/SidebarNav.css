@@ -1,0 +1,23 @@
+.sidebar-nav {
+    display:grid;
+    height: 100vh;
+    grid-column: 1;
+    grid-row: 1 / -1;
+    row-gap: 1rem;
+    padding: 1rem;
+    background: #f5f5f5;
+    overflow-y: auto;
+
+  }
+  
+  .sidebar-link {
+    display: block;
+    margin-bottom: 1rem;
+    text-decoration: none;
+  }
+
+  .home-card--wrapper {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+  }

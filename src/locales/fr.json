@@ -1,0 +1,65 @@
+{
+    "home": {
+      "title": "Outil e-Détailing Professionnel GUM",
+      "navTitle": "Home",
+      "modules": [
+        {
+          "id": "oral-systemic",
+          "title": "Solutions Oro-Systémiques",
+          "icon": "/src/assets/oral-systemic.png",
+          "route": "/oral-systemic"
+        },
+        {
+          "id": "partners",
+          "title": "Partenaires en Soins",
+          "icon": "/src/assets/partner-icon.png",
+          "route": "/partners"
+        },
+        {
+          "id": "interproximal",
+          "title": "Solutions Interproximales",
+          "icon": "/src/assets/interproximal-icon.webp",
+          "route": "/interproximal"
+        },
+        {
+          "id": "toothbrush",
+          "title": "Solutions Brosses à Dents",
+          "icon": "/src/assets/toothbrush-icon.jpg",
+          "route": "/toothbrush"
+        },
+        {
+          "id": "operatory",
+          "title": "Solutions de Cabinet",
+          "icon": "/src/assets/operatory-icon.jpg",
+          "route": "/operatory"
+        },
+        {
+          "id": "accessories",
+          "title": "Accessoires",
+          "icon": "/src/assets/accessories-icon.webp",
+          "route": "/accessories"
+        }
+      ]
+    },
+    "interproximal": {
+      "title": "Conçu pour les Besoins Spécifiques des Patients",
+      "class1": "Solutions Classe I",
+      "class2": "Solutions Classe II",
+      "class3": "Solutions Classe III",
+      "counselling": "Conseil Patient",
+      "portfolioLinks": {
+        "portfolio": "Portefeuille Complet BTC"
+      }
+    },
+    "toothbrush": {
+      "title": "Conçu pour les Besoins Spécifiques des Patients",
+      "pocketDepth": "Patients avec profondeur de poche accrue",
+      "sensitivity": "Patients avec sensibilité accrue",
+      "research": "Patients nécessitant plus de recherche",
+      "portfolioLinks": {
+        "adultPortfolio": "Portefeuille Complet Brosses Adultes",
+        "childPortfolio": "Portefeuille Complet Brosses Enfants",
+        "specialtyPortfolio": "Portefeuille Brosses Spécialisées"
+      }
+    }
+  }
