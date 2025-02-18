@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import useSectionScroll from '../../hooks/useSectionScroll';
 import ModuleLayout from '../../components/ModuleLayout/ModuleLayout';
 import ContentSection from './ContentSection';
-import './interproximal.css';
+import './Interproximal.css';
 
 export default function InterproximalModule() {
   const { t } = useTranslation();
