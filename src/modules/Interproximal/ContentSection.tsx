@@ -1,4 +1,4 @@
-import './interproximal.css';
+import './Interproximal.css';
 import { forwardRef } from 'react';
 
 interface ContentSectionProps {
